@@ -1,0 +1,13 @@
+E:\Coisas inuteis\aaaa\Medicamento\Medicamento\bin\Debug\netcoreapp3.1\Medicamento.exe
+E:\Coisas inuteis\aaaa\Medicamento\Medicamento\bin\Debug\netcoreapp3.1\Medicamento.deps.json
+E:\Coisas inuteis\aaaa\Medicamento\Medicamento\bin\Debug\netcoreapp3.1\Medicamento.runtimeconfig.json
+E:\Coisas inuteis\aaaa\Medicamento\Medicamento\bin\Debug\netcoreapp3.1\Medicamento.runtimeconfig.dev.json
+E:\Coisas inuteis\aaaa\Medicamento\Medicamento\bin\Debug\netcoreapp3.1\Medicamento.dll
+E:\Coisas inuteis\aaaa\Medicamento\Medicamento\bin\Debug\netcoreapp3.1\Medicamento.pdb
+E:\Coisas inuteis\aaaa\Medicamento\Medicamento\obj\Debug\netcoreapp3.1\Medicamento.csproj.AssemblyReference.cache
+E:\Coisas inuteis\aaaa\Medicamento\Medicamento\obj\Debug\netcoreapp3.1\Medicamento.AssemblyInfoInputs.cache
+E:\Coisas inuteis\aaaa\Medicamento\Medicamento\obj\Debug\netcoreapp3.1\Medicamento.AssemblyInfo.cs
+E:\Coisas inuteis\aaaa\Medicamento\Medicamento\obj\Debug\netcoreapp3.1\Medicamento.csproj.CoreCompileInputs.cache
+E:\Coisas inuteis\aaaa\Medicamento\Medicamento\obj\Debug\netcoreapp3.1\Medicamento.dll
+E:\Coisas inuteis\aaaa\Medicamento\Medicamento\obj\Debug\netcoreapp3.1\Medicamento.pdb
+E:\Coisas inuteis\aaaa\Medicamento\Medicamento\obj\Debug\netcoreapp3.1\Medicamento.genruntimeconfig.cache
